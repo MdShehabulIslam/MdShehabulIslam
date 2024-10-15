@@ -2,9 +2,11 @@
 
 ### <div align="center">I'm a Fullstack Developer 👩‍💻</div>
 
+<br/>
+
 - 🎓 CS graduate: eeking for a new role in a company where I can learn and grow my skills 🚀
 
-- 🔭 I’m currently working on [Infinix Broadband]⚡(https://github.com/MdShehabulIslam/Infinix-Broadband)
+- 🔭 I’m currently working on [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)⚡
 
 - 🎯 Goal: Contribute more to Open Source projects 💻
 
