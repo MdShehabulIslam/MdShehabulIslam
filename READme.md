@@ -1,18 +1,16 @@
 ## 👋 Hi, I am Mohammad
 
-### <div align="center">I'm a Fullstack Developer 👩‍💻 working remotely 🚀</div>
+### <div align="center">I'm a Fullstack Developer 👩‍💻</div>
 
-<br/>
+- 🎓 CS graduate: eeking for a new role in a company where I can learn and grow my skills 🚀
 
-- 🎓 CS graduate - seeking for a new role in a company where I can learn and grow my skills
+- 🔭 I’m currently working on [Infinix Broadband]⚡(https://github.com/MdShehabulIslam/Infinix-Broadband)
 
-- 🌱 I’m currently learning React & Node.js
+- 🎯 Goal: Contribute more to Open Source projects 💻
 
-- 🔭 I’m currently working on [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)
+- 💡 Let's connect and collaborate on exciting tech projects 🌱
 
-- 🎯 Goal: Contribute more to Open Source projects
-
-- ⚡ Hobby: I love to play Cricket 🏏 and Competitive e-Sports 😄
+- 😄 Hobby: I love to play Cricket 🏏 and Competitive e-Sports 😄
 
 <br/>
 
