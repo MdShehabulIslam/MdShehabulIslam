@@ -2,17 +2,15 @@
 
 ### <div align="center">I'm a Fullstack Developer 👩‍💻</div>
 
-<br/>
-
 - 🎓 CS graduate: eeking for a new role in a company where I can learn and grow my skills 🚀
 
-- 🔭 I’m currently working on [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)⚡
+- 🌱 I'm currently learning React and Node.js
 
-- 🎯 Goal: Contribute more to Open Source projects 💻
+- 🔭 I’m currently working on [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)
 
-- 💡 Let's connect and collaborate on exciting tech projects 🌱
+- 🎯 Goal: Contribute more to Open Source projects
 
-- 😄 Hobby: I love to play Cricket 🏏 and Competitive e-Sports 😄
+- 💡 Let's connect and collaborate on exciting tech projects
 
 <br/>
 
@@ -21,26 +19,26 @@
 <table align="center"><tr><td valign="top" width="100%">
 
 <div align="center" style="margin: 10px">
-<img style="margin: 10px" src="./Images/HTML.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="./Images/CSS.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="./Images/TailwindCSS-Dark.svg" alt="TailwindCSS" height="50" />
-<img style="margin: 10px" src="./Images/Bootstrap.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="./Images/JavaScript.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="./Images/Vite-Dark.svg" alt="Vite" height="50" />
-<img style="margin: 10px" src="./Images/React-Dark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="./Images/NodeJS-Dark.svg" alt="NodeJS" height="50" />
-<img style="margin: 10px" src="./Images/ExpressJS-Dark.svg" alt="Express" height="50" />
-<img style="margin: 10px" src="./Images/Npm-Dark.svg" alt="NPM" height="50" />
-<img style="margin: 10px" src="./Images/Python-Dark.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="./Images/CPP.svg" alt="C++" height="50" />
-<img style="margin: 10px" src="./Images/Java-Dark.svg" alt="Java" height="50" />
-<img style="margin: 10px" src="./Images/Spring-Dark.svg" alt="SpringBoot" height="50" />
-<img style="margin: 10px" src="./Images/Git.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="./Images/Github-Dark.svg" alt="GitHub" height="50" />
-<img style="margin: 10px" src="./Images/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="./Images/Docker.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="./Images/AWS-Dark.svg" alt="AWS" height="50" />
-<img style="margin: 10px" src="./Images/LaTeX-Dark.svg" alt="Latex" height="50" />
+<a href= "https://www.w3schools.com/html/"><img style="margin: 10px" src="./Images/HTML.svg" alt="HTML5" height="50"/></a>
+<img style="margin: 10px" href= "https://www.w3schools.com/css/" src="./Images/CSS.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" href= "https://tailwindcss.com/" src="./Images/TailwindCSS-Dark.svg" alt="TailwindCSS" height="50" />
+<img style="margin: 10px" href= "https://getbootstrap.com/" src="./Images/Bootstrap.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" href= "https://www.w3schools.com/js/" src="./Images/JavaScript.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" href= "https://vite.dev/" src="./Images/Vite-Dark.svg" alt="Vite" height="50" />
+<img style="margin: 10px" href= "https://react.dev/" src="./Images/React-Dark.svg" alt="React" height="50" />
+<img style="margin: 10px" href= "https://nodejs.org/en" src="./Images/NodeJS-Dark.svg" alt="NodeJS" height="50" />
+<img style="margin: 10px" href= "https://expressjs.com/" src="./Images/ExpressJS-Dark.svg" alt="Express" height="50" />
+<img style="margin: 10px" href= "https://www.npmjs.com/" src="./Images/Npm-Dark.svg" alt="NPM" height="50" />
+<img style="margin: 10px" href= "https://www.w3schools.com/python/" src="./Images/Python-Dark.svg" alt="Python" height="50" />
+<img style="margin: 10px" href= "https://www.w3schools.com/cpp/" src="./Images/CPP.svg" alt="C++" height="50" />
+<img style="margin: 10px" href= "https://www.w3schools.com/java/" src="./Images/Java-Dark.svg" alt="Java" height="50" />
+<img style="margin: 10px" href= "https://spring.io/projects/spring-boot" src="./Images/Spring-Dark.svg" alt="SpringBoot" height="50" />
+<img style="margin: 10px" href= "https://git-scm.com/doc" src="./Images/Git.svg" alt="Git" height="50" />
+<img style="margin: 10px" href= "https://github.com/" src="./Images/Github-Dark.svg" alt="GitHub" height="50" />
+<img style="margin: 10px" href= "https://www.postgresql.org/" src="./Images/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" />
+<img style="margin: 10px" href= "https://www.docker.com/why-docker/?utm_source=google&utm_medium=cpc&utm_campaign=BRAND_SEARCH_BRAND_AMER_NORAM&utm_term=docker&gad_source=1&gclid=CjwKCAjwpbi4BhByEiwAMC8Jnf9UgfJIbZCPRKyc6e6ij3m0esyv4Lvusl7zljjXxmpGkhccYRVocxoCoxMQAvD_BwE" src="./Images/Docker.svg" alt="Docker" height="50" />
+<img style="margin: 10px" href= "https://aws.amazon.com/free/?gclid=CjwKCAjwpbi4BhByEiwAMC8JnTKzVzUEr6RKM4UZQUIMg80LUWa3qeL4D-7lu9Wemryl8f2ZKYkt1RoC5qsQAvD_BwE&trk=e747cc26-a307-4ae0-981a-6dc5c1cb4121&sc_channel=ps&ef_id=CjwKCAjwpbi4BhByEiwAMC8JnTKzVzUEr6RKM4UZQUIMg80LUWa3qeL4D-7lu9Wemryl8f2ZKYkt1RoC5qsQAvD_BwE:G:s&s_kwcid=AL!4422!3!453053794209!e!!g!!aws!10705896207!102406402981&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" src="./Images/AWS-Dark.svg" alt="AWS" height="50" />
+<img style="margin: 10px" href= "https://www.latex-project.org/" src="./Images/LaTeX-Dark.svg" alt="Latex" height="50" />
 
 ## Connect with me 🤝
 
