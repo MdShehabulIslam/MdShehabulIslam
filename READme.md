@@ -1,8 +1,10 @@
 ## 👋 Hi, I am Mohammad
 
-### <div align="center">I'm a Fullstack developer 👩‍💻 working remotely 🚀</div>
+### <div align="center">I'm a Fullstack Developer 👩‍💻 working remotely 🚀</div>
 
-- 🎓 CS graduate - seeking for a new role in a company where I can learn and grow my skills.
+<br/>
+
+- 🎓 CS graduate - seeking for a new role in a company where I can learn and grow my skills
 
 - 🌱 I’m currently learning React & Node.js
 
@@ -10,11 +12,11 @@
 
 - 🎯 Goal: Contribute more to Open Source projects
 
-- ⚡ Hobby: I love to play Cricket 🏏 and Competitive e-Sports.
+- ⚡ Hobby: I love to play Cricket 🏏 and Competitive e-Sports 😄
 
 <br/>
 
-## <div align="center"> My Skill </div>
+## <div align="center"> Skills 🔥 </div>
 
 <table align="center"><tr><td valign="top" width="100%">
 
@@ -40,7 +42,7 @@
 <img style="margin: 10px" src="./Images/AWS-Dark.svg" alt="AWS" height="50" />
 <img style="margin: 10px" src="./Images/LaTeX-Dark.svg" alt="Latex" height="50" />
 
-## Connect with me
+## Connect with me 🤝
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mohammad-shehabul-islam-55b7b223a/" target="_blank">
