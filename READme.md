@@ -1,16 +1,20 @@
-## Hi There!👋, I am Mohammad
+## 👋 Hi, I am Mohammad
 
-### <div align="center">I'm a fullstack developer 👩‍💻 working remotely 🚀</div>
+### <div align="center">I'm a Fullstack developer 👩‍💻 working remotely 🚀</div>
 
-- 🔭 I’m currently seeking for  [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)
+- 🎓 CS graduate - seeking for a new role in a company where I can learn and grow my skills.
 
 - 🌱 I’m currently learning React & Node.js
 
-- ⚡
+- 🔭 I’m currently working on [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)
+
+- 🎯 Goal: Contribute more to Open Source projects
+
+- ⚡ Hobby: I love to play Cricket 🏏 and Competitive e-Sports.
 
 <br/>
 
-## <div align="center"> My Skill Set </div>
+## <div align="center"> My Skill </div>
 
 <table align="center"><tr><td valign="top" width="100%">
 
@@ -42,11 +46,11 @@
 <a href="https://www.linkedin.com/in/mohammad-shehabul-islam-55b7b223a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/MdSiamIslam97" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/MdShehabulIslam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/MdSiamIslam97" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>
 </td></tr></table>
