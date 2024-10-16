@@ -12,7 +12,7 @@
 
 - 💡 Let's connect and collaborate on exciting tech projects
 
-<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## <div align="center"> Skills 🔥 </div>
 
@@ -54,3 +54,5 @@
 </a>
 </div>
 </td></tr></table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
