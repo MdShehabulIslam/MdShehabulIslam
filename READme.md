@@ -1,18 +1,27 @@
-## 👋 Hi, I am Mohammad
+## 👋 Hi, I am Mohammad  
 
 ### <div align="center">I'm a Fullstack Developer 🚀</div>
 
-- 👩‍💻 CS graduate: Seeking for a new role in a company where I can learn and grow my skills
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+    <ul>
+      <li>👩‍💻 CS graduate: Seeking a new role in a company where I can learn and grow my skills</li>
+      <li>🌱 I'm currently learning  and AWS Solutions Architect</li>
+      <li>🔭 I’m currently working on <a href="https://github.com/MdShehabulIslam/Infinix-Broadband">Infinix Broadband</a></li>
+      <li>🎯 Goal: Contribute more to Open Source projects</li>
+      <li>💡 Let's connect and collaborate on exciting tech projects</li>
+    </ul>
+  </div>
 
-- 🌱 I'm currently learning React and Express.js
-
-- 🔭 I’m currently working on [Infinix Broadband](https://github.com/MdShehabulIslam/Infinix-Broadband)
-
-- 🎯 Goal: Contribute more to Open Source projects
-
-- 💡 Let's connect and collaborate on exciting tech projects
+  <div align="center" style="flex: 1; min-width: 300px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShehabulIslam&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
+  
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ## <div align="center"> Skills 🔥 </div>
 
