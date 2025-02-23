@@ -8,7 +8,7 @@
     <ul>
       <li>👩‍💻 CS graduate: Seeking a new role in a company where I can learn and grow my skills</li>
       <li>🌱 I'm currently learning  and AWS Solutions Architect</li>
-      <li>🔭 I’m currently working on <a href="https://github.com/MdShehabulIslam/Infinix-Broadband">Infinix Broadband</a></li>
+      <li>🔭 I’m currently working on <a href="https://github.com/MdShehabulIslam/OneStop-Garage">OneStop-Garage</a></li>
       <li>🎯 Goal: Contribute more to Open Source projects</li>
       <li>💡 Let's connect and collaborate on exciting tech projects</li>
     </ul>
